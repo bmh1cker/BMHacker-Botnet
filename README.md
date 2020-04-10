@@ -67,6 +67,8 @@ A cloud based remote android managment suite, powered by NodeJS
 It's recommended to run botnet behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Watch Practical Video
+- Part(1)-> https://youtu.be/wjmYOW_NtmE
+- Part(2)-> https://youtu.be/geLg46vNFKE
 
 
 ## Disclaimer
