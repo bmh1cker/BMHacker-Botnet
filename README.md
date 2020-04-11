@@ -69,7 +69,7 @@ It's recommended to run botnet behind a reverse proxy such as [NGINX](https://ww
 ## Watch Practical Video
 - Part(1)-> https://youtu.be/wjmYOW_NtmE
 - Part(2)-> https://youtu.be/geLg46vNFKE
-- Part(3)-> 
+- Part(3)-> https://youtu.be/R3_37GgI1IQ
 
 ## Disclaimer
 <b>BMHacker Botnet Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
