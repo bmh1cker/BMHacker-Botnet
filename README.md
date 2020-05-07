@@ -90,7 +90,7 @@ https://h1ckpro.tk
 ## 👥 ***Join***
 
 ### Telegram channel:
-https://t.me/bmhackerofficial
+https://t.me/bmh1cker
 
 ### Facebook page:
 https://www.facebook.com/bmh1cker
